@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[26],{519:function(n,e,t){"use strict";t.r(e);var o=t(43),component=Object(o.a)({},(function(){var n=this.$createElement;return(this._self._c||n)("div",[this._v("\n    Promociones\n")])}),[],!1,null,null,null);e.default=component.exports}}]);
